@@ -37,7 +37,7 @@ Tenho perfil colaborativo, foco em qualidade de código, e estou sempre buscando
 |--------|-----------|-------------|
 | **Conciliação Contábil com IA** | Processamento inteligente de planilhas para conciliação bancária/fiscal com uso de regras e IA generativa. Integrado ao Pipefy. | Python, Pandas, OpenAI API, GCP |
 | **Automação de Geração de Documentos** | Geração automatizada de documentos Word e conversão para PDF, com envio automático para sistemas externos. | Python, python-docx, pdfkit, GCP |
-| **Integração API  → Power BI** | Extração de dados via API da Checklist Fácil, tratamento e atualização automatizada de dashboards. | Python, REST API, Power BI |
+| **Integração API  → Power BI** | Extração de dados via API, tratamento e atualização automatizada de dashboards. | Python, REST API, Power BI |
 | **Sistema assíncrono com Cloud Tasks** | Projeto que utiliza filas no GCP para dividir e distribuir tarefas pesadas com performance e controle. | Python, Cloud Tasks, FastAPI |
 
 ---
